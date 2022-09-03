@@ -19,5 +19,6 @@ public class EnumServiceImplTest {
 
         //then - sprawdzamy rezultat metody
         Assertions.assertEquals(cloting,result);
+
     }
 }
