@@ -13,4 +13,5 @@ public class Mein {
         System.out.println(present2);
 
     }
+    int a = 5;
 }
